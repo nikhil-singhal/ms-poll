@@ -1,0 +1,25 @@
+{
+  "name": "ms-indifi-app",
+  "version": "1.0.0",
+  "description": "Android App Backend",
+  "main": "core-api/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/indifi/ms-indifi-app.git"
+  },
+  "author": "nikhil.singhal@indifi.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indifi/ms-indifi-app/issues"
+  },
+  "homepage": "https://github.com/indifi/ms-indifi-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
